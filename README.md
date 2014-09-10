@@ -8,7 +8,7 @@ Use SharpDevelop to import this project and to run it. Requires HeadSoft VJoyDri
 License
 -------
 
-Copyright 2013-2014 - Ahmed El-Hajjar, Nicolas Eveillard
+Copyright 2013-2014 - Ahmed El-Hajjar
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
